@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<AppInstaller Uri="https://code-lens-installer.github.io/code-lens-updates/CodeLens.appinstaller" Version="1.0.2.94" xmlns="http://schemas.microsoft.com/appx/appinstaller/2018">
-  <MainPackage Name="CodeLens.App" Publisher="CN=CodeLens" Version="1.0.2.94" ProcessorArchitecture="x64" Uri="https://github.com/code-lens-installer/code-lens-updates/releases/download/windows-v1.0.2.94/CodeLens.App_1.0.2.94_x64.msix" />
+<AppInstaller Uri="https://code-lens-installer.github.io/code-lens-updates/CodeLens.appinstaller" Version="1.0.2.96" xmlns="http://schemas.microsoft.com/appx/appinstaller/2018">
+  <MainPackage Name="CodeLens.App" Publisher="CN=CodeLens" Version="1.0.2.96" ProcessorArchitecture="x64" Uri="https://github.com/code-lens-installer/code-lens-updates/releases/download/windows-v1.0.2.96/CodeLens.App_1.0.2.96_x64.msix" />
   <UpdateSettings>
     <OnLaunch HoursBetweenUpdateChecks="24" ShowPrompt="false" UpdateBlocksActivation="false" />
     <AutomaticBackgroundTask />
